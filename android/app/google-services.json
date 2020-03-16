@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278828346641",
+    "firebase_url": "https://walleties.firebaseio.com",
+    "project_id": "walleties",
+    "storage_bucket": "walleties.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278828346641:android:7dc99f23f4724e56f070b0",
+        "android_client_info": {
+          "package_name": "walleties.app.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278828346641-5qvdms9mb7dmu4ba6bifujt4gjl7n519.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "walleties.app.com",
+            "certificate_hash": "d8529ab353fd4d15c20ab15ff5bba921ad5d1536"
+          }
+        },
+        {
+          "client_id": "278828346641-hppl2uur163a0bspbihrgrv5qro8pur0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4W8EQeCWcFC5nULv3ZZUkfHtvvVSFIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278828346641-hppl2uur163a0bspbihrgrv5qro8pur0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
