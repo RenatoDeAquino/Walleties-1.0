@@ -1,2 +1,0 @@
-Data: 15/03/2020
-Texto: "Você recebeu $100 reais da conta xxxx-xxx"
